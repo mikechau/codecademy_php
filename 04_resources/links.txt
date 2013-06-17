@@ -16,3 +16,11 @@ http://php.net/manual/en/function.json-decode.php
 PHP ARRAY VALUES
 http://php.net/manual/en/function.array-values.php
 
+PHP PRINTR
+http://php.net/manual/en/function.print-r.php
+
+AWSSDK PHP
+http://docs.aws.amazon.com/AWSSDKforPHP/latest/#m=AmazonS3/list_objects
+
+AWSSDK GETTING STARTED
+http://www.sitepoint.com/getting-started-with-the-aws-php-sdk/
